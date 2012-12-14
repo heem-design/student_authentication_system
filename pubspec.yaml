@@ -1,0 +1,19 @@
+name: student_authentication_system
+description: "A student authentication system built with Flutter using MVC and Repository pattern."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
